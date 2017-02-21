@@ -35,7 +35,7 @@ Make downnload the latest source release Python for:
 
 So... if you like use IDE, do you can use the [PyCharm Python IDE](https://www.jetbrains.com/pycharm). 
 The PyCharm have two versions: 
-- **Community**: Lightweight IDE for Python & scientific development 
+- **Community**: Lightweight IDE for Python & Scientific development 
 - **Professional**: Full-featured IDE for Python & Web development 
 
 That is, free version and pay version. More in... [https://www.jetbrains.com/pycharm/download/](https://www.jetbrains.com/pycharm/download/)
@@ -50,8 +50,20 @@ Defining your development environment let's go to our first code...
 ####Hello World Python?
 
 For the Hello World Python example I will go to use the Sublime.
-Open your Sublime and create an folder named **PythonBasic** in some directory of your preference, in my case I used the directory **/Desktop** 
+Open your Sublime and create an folder named **PythonBasic** in some directory of your preference, in my case I used the directory **/Desktop**. 
 After that, create another folder inside PythonBasic called **class1**, look at image below:
+
 ![/home/robsonfagundes/Desktop/PythonBasic/class1](https://github.com/robsonfagundes/basic-python-course/blob/master/images/class1-b.png "PythonBasic directory (/home/robsonfagundes/Desktop/PythonBasic/class)")
 I defined this folder structure to make our code more organized.
+
+Ok let's to the code:
+
+Create an new file named **hellopython.py** in directory class1, and put the follow code:
+```python 
+
+print('Hello World Python');
+ 
+```
+
+
 
