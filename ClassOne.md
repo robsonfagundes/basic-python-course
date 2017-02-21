@@ -76,8 +76,9 @@ The **print** print at user interface an value defined on the command, in this c
 
 ![/home/robsonfagundes/Desktop/PythonBasic/class1](https://github.com/robsonfagundes/basic-python-course/blob/master/images/class1-d.png "print('Hello World Python');").
 
-If you got here... Congratulations!!!
-See you next class. Thanks!
+That's all Folks!!!
+
+If you got here... Congratulations!!! See you next class. Thanks!
 
 
 
