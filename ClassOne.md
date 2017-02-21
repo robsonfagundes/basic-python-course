@@ -33,16 +33,23 @@ Make downnload the latest source release Python for:
 
 ####Do you perfer use IDE or TextEditor?
 
-Well... if you like use IDE, do you can use the [PyCharm Python IDE](https://www.jetbrains.com/pycharm). 
+So... if you like use IDE, do you can use the [PyCharm Python IDE](https://www.jetbrains.com/pycharm). 
 The PyCharm have two versions: 
 - **Community**: Lightweight IDE for Python & scientific development 
 - **Professional**: Full-featured IDE for Python & Web development 
 
 That is, free version and pay version. More in... [https://www.jetbrains.com/pycharm/download/](https://www.jetbrains.com/pycharm/download/)
 
-Now if you prefer an text editor, do you can use someone of your preference as: 
+Now if you prefer an code editor, do you can use someone of your preference as: 
 - [Sublime](https://www.sublimetext.com)
 - [Gedit](https://wiki.gnome.org/Apps/Gedit) 
 - [Notepad++](https://notepad-plus-plus.org/)
 
+Defining your development environment let's go to our first code...
+
+####Hello World Python?
+
+For the Hello World Python example I will go to use the Sublime.
+Open your Sublime and create an folder named **PythonBasic** in some directory of your preference, in my case I used the directory **/Desktop** 
+![/home/robsonfagundes/Desktop/PythonBasic/class1](https://github.com/adam-p/class1-a.png "Logo Title Text 1")
 
