@@ -51,5 +51,7 @@ Defining your development environment let's go to our first code...
 
 For the Hello World Python example I will go to use the Sublime.
 Open your Sublime and create an folder named **PythonBasic** in some directory of your preference, in my case I used the directory **/Desktop** 
-![/home/robsonfagundes/Desktop/PythonBasic/class1](https://github.com/adam-p/class1-a.png "Logo Title Text 1")
+After that, create another folder inside PythonBasic called **class1**, look at image below:
+![/home/robsonfagundes/Desktop/PythonBasic/class1](https://github.com/robsonfagundes/basic-python-course/blob/master/images/class1-b.png "PythonBasic directory (/home/robsonfagundes/Desktop/PythonBasic/class)")
+I defined this folder structure to make our code more organized.
 
