@@ -78,7 +78,7 @@ The **print** print at user interface an value defined on the command, in this c
 
 That's all Folks!!!
 
-If you got here... Congratulations!!! See you next class. Thanks!
+If you got here... Congratulations!!! See you next class. Thanks! 
 
 
 
