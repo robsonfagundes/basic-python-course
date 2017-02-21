@@ -56,14 +56,17 @@ After that, create another folder inside PythonBasic called **class1**, look at 
 ![/home/robsonfagundes/Desktop/PythonBasic/class1](https://github.com/robsonfagundes/basic-python-course/blob/master/images/class1-b.png "PythonBasic directory (/home/robsonfagundes/Desktop/PythonBasic/class)")
 I defined this folder structure to make our code more organized.
 
-Ok let's to the code:
+**Ok let's to the code:**
 
-Create an new file named **hellopython.py** in directory class1, and put the follow code:
+Create an new file named **hellopython.py** in directory class1, and write the follow code:
 ```python 
 
 print('Hello World Python');
  
 ```
+The print command write at user interface an value defined to user, in this case 'Hello World Python'.
+
+![/home/robsonfagundes/Desktop/PythonBasic/class1](https://github.com/robsonfagundes/basic-python-course/blob/master/images/class1-c.png "print('Hello World Python');")
 
 
 
