@@ -3,6 +3,7 @@
 In this lesson we have a brief introduction to Python and how to configure the environment to start programming.
 
 Case do you use linux just open the terminal and type:
+----------------
 
 ####python 2.x.x:
 ```bash
@@ -22,5 +23,11 @@ Python 3.5.2 (default, Nov 17 2016, 17:05:23)
 Type "help", "copyright", "credits" or "license" for more information.
 >>> 
 ```
-Case do you need **Python** with a different OS? 
-Make downnload the latest source release Python for [Windows](https://www.python.org/downloads/windows/), [Mac OS X](https://www.python.org/downloads/mac-osx/), [Other](https://www.python.org/download/other/) .
+
+Case do you need **Python** with a different OS?
+----------------
+
+Make downnload the latest source release Python for: 
+- [Windows](https://www.python.org/downloads/windows/)
+- [Mac OS X](https://www.python.org/downloads/mac-osx/)
+- [Other](https://www.python.org/download/other/) .

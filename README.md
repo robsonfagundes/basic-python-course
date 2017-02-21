@@ -18,5 +18,5 @@ The basic Python course is a course of the Python programming language and progr
 
 #### Here you can learned about:
 
-- [Lecture 1 - Introduction to Python and Setting Up the Environment]()
-- [Lecture 2 - Variables, types, input, output and mathematical operators]()
+- [Lecture 1 - Introduction to Python and Setting Up the Environment](https://github.com/robsonfagundes/basic-python-course/blob/master/ClassOne.md)
+- [Lecture 2 - Variables, types, input, output and mathematical operators](https://github.com/robsonfagundes/basic-python-course/blob/master/ClassTwo.md)
