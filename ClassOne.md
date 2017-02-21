@@ -37,7 +37,8 @@ Well... if you like use IDE, do you can use the [PyCharm Python IDE](https://www
 The PyCharm have two versions: 
 - **Community**: Lightweight IDE for Python & scientific development 
 - **Professional**: Full-featured IDE for Python & Web development 
-That is, free version and pay version. More 
+
+That is, free version and pay version. More in... [https://www.jetbrains.com/pycharm/download/](https://www.jetbrains.com/pycharm/download/)
 
 Now if you prefer an text editor, do you can use someone of your preference as: 
 - [Sublime](https://www.sublimetext.com)
