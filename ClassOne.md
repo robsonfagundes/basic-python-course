@@ -74,7 +74,7 @@ $: python hellopython.py
 ```
 The **print** print at user interface an value defined on the command, in this case 'Hello World Python'.
 
-![/home/robsonfagundes/Desktop/PythonBasic/class1](https://github.com/robsonfagundes/basic-python-course/blob/master/images/class1-d.png "print('Hello World Python');").
+![/home/robsonfagundes/Desktop/PythonBasic/class1](https://github.com/robsonfagundes/basic-python-course/blob/master/images/class1-d.png "print('Hello World Python');")
 
 That's all Folks!!!
 
