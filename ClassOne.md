@@ -66,7 +66,10 @@ print('Hello World Python');
 ```
 The print command write at user interface an value defined to user, in this case 'Hello World Python'.
 
-![/home/robsonfagundes/Desktop/PythonBasic/class1](https://github.com/robsonfagundes/basic-python-course/blob/master/images/class1-c.png "print('Hello World Python');")
+![/home/robsonfagundes/Desktop/PythonBasic/class1](https://github.com/robsonfagundes/basic-python-course/blob/master/images/class1-d.png "print('Hello World Python');").
+
+If you got here... Congratulations!!!
+See you next class. Thanks!
 
 
 
