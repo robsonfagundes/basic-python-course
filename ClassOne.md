@@ -28,4 +28,20 @@ Type "help", "copyright", "credits" or "license" for more information.
 Make downnload the latest source release Python for: 
 - [Windows](https://www.python.org/downloads/windows/)
 - [Mac OS X](https://www.python.org/downloads/mac-osx/)
-- [Other](https://www.python.org/download/other/) .
+- [Other](https://www.python.org/download/other/).
+
+
+####Do you perfer use IDE or TextEditor?
+
+Well... if you like use IDE, do you can use the [PyCharm Python IDE](https://www.jetbrains.com/pycharm). 
+The PyCharm have two versions: 
+- **Community**: Lightweight IDE for Python & scientific development 
+- **Professional**: Full-featured IDE for Python & Web development 
+That is, free version and pay version. More 
+
+Now if you prefer an text editor, do you can use someone of your preference as: 
+- [Sublime](https://www.sublimetext.com)
+- [Gedit](https://wiki.gnome.org/Apps/Gedit) 
+- [Notepad++](https://notepad-plus-plus.org/)
+
+
