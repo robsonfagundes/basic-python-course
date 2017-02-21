@@ -3,7 +3,6 @@
 In this lesson we have a brief introduction to Python and how to configure the environment to start programming.
 
 ####Case do you use linux just open the terminal and type:
-----------------
 
 #####python 2.x.x:
 ```bash
@@ -25,7 +24,6 @@ Type "help", "copyright", "credits" or "license" for more information.
 ```
 
 ####Case do you need **Python** with a different OS?
-----------------
 
 Make downnload the latest source release Python for: 
 - [Windows](https://www.python.org/downloads/windows/)
