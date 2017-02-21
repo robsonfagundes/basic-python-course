@@ -64,7 +64,13 @@ Create an new file named **hellopython.py** in directory class1, and write the f
 print('Hello World Python');
  
 ```
-The print command write at user interface an value defined to user, in this case 'Hello World Python'.
+To run your code open your bash or cmd and type:
+
+```bash 
+$: python hellopython.py
+
+```
+The **print** command write at user interface an value defined to user, in this case 'Hello World Python'.
 
 ![/home/robsonfagundes/Desktop/PythonBasic/class1](https://github.com/robsonfagundes/basic-python-course/blob/master/images/class1-d.png "print('Hello World Python');").
 
