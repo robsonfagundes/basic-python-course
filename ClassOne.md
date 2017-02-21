@@ -1,11 +1,11 @@
-### Class-1 - Introduction to Python and Setting Up the Environment
+## Class-1 - Introduction to Python and Setting Up the Environment
 
 In this lesson we have a brief introduction to Python and how to configure the environment to start programming.
 
-Case do you use linux just open the terminal and type:
+####Case do you use linux just open the terminal and type:
 ----------------
 
-####python 2.x.x:
+#####python 2.x.x:
 ```bash
 $: python 
 
@@ -14,7 +14,7 @@ Python 2.7.12 (default, Nov 19 2016, 06:48:10)
 Type "help", "copyright", "credits" or "license" for more information.
 >>> 
 ```
-####python 3.x.x:
+#####python 3.x.x:
 ```bash
 $: python3 
 
@@ -24,7 +24,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 >>> 
 ```
 
-Case do you need **Python** with a different OS?
+####Case do you need **Python** with a different OS?
 ----------------
 
 Make downnload the latest source release Python for: 
