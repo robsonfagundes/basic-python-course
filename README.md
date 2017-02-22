@@ -24,7 +24,6 @@ Here you can learned about:
 
 
 The basic python course is based in https://solyd.com.br/treinamentos/python-basico course. 
-
 Thanks! @guilhermej and [solyd.com.br](https://solyd.com.br)
 
 
