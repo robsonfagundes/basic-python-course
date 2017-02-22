@@ -47,7 +47,7 @@ Now if you prefer an code editor, do you can use someone of your preference as:
 
 Defining your development environment let's go to our first code...
 
-####Hello World Python?
+####Hello World Python
 
 For the Hello World Python example I will go to use the Sublime.
 Open your Sublime and create an folder named **PythonBasic** in some directory of your preference, in my case I used the directory **/Desktop**. 
