@@ -5,13 +5,14 @@ Today we will see the basic of basic of basic of Python... the first thing that 
 
 **Ok let's to the code:**
 
-Create an new file named **input-output.py** in directory class2, and write the follow code:
+Create an new file named **input-output.py** in directory class2, and write the follow code.
 
+In this example, look at code below that we can use the command print in the following ways: simple prints, many prints or twice print in the same print.
 ```python 
 # simple print
 print('Class two - Input and Output');
 
-# twice print
+# many prints
 print('First Print');
 print('Secound Print');
 
